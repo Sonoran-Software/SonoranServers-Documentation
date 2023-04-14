@@ -26,7 +26,7 @@ description: Learn how to generate role keys with your Sonoran Servers TeamSpeak
 
 7\. Click `Permissions` and then `Use Permission Key` from the top bar menus.
 
-![TeamSpeak 3 - Use Permission Key](<../../.gitbook/assets/image (103).png>)
+![TeamSpeak 3 - Use Permission Key](<../../.gitbook/assets/image (103) (1).png>)
 
 8\. Paste the "Token" you generated on the TeamSpeak server control panel into the prompt. Then press `OK`
 
@@ -66,7 +66,7 @@ You **MUST** already have Server Admin or permissions in the TeamSpeak server in
 
 2\. Click `Permissions` and then `Use Permission Key` from the top bar menus.
 
-![TeamSpeak 3 - Use Permission Key](<../../.gitbook/assets/image (103).png>)
+![TeamSpeak 3 - Use Permission Key](<../../.gitbook/assets/image (103) (1).png>)
 
 3\. Paste the "Token" you recieved into the prompt. Then press `OK`
 

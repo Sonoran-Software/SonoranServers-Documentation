@@ -19,7 +19,7 @@ To open any port within Windows you need to use the Windows Defender Firewall. T
 
 * Right-click on Inbound Rules.
 
-![Rule Type](<../../.gitbook/assets/image (97).png>)
+![Rule Type](<../../.gitbook/assets/image (97) (1).png>)
 
 * Click "**New Rule**".
 * Click "**Port**" and select Next.
@@ -38,7 +38,7 @@ To open any port within Windows you need to use the Windows Defender Firewall. T
 
 * Right-click on **Inbound Rules**.
 
-![Rule Type](<../../.gitbook/assets/image (97).png>)
+![Rule Type](<../../.gitbook/assets/image (97) (1).png>)
 
 * Click "**New Rule**".
 * Click "**Program**" and select **Next**.

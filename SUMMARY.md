@@ -23,6 +23,7 @@
 * [TeamSpeak Server](tutorials/teamspeak-server/README.md)
   * [Initial Setup/Admin Access](tutorials/teamspeak-server/initial-setup-admin-access.md)
   * [Generate Server Role Tokens](tutorials/teamspeak-server/generate-server-role-tokens.md)
+* [Server Backups](tutorials/server-backups.md)
 * [Sonoran Shield](tutorials/sonoran-shield/README.md)
   * [Firewall Rules](tutorials/sonoran-shield/firewall-rules.md)
   * [Application Filters](tutorials/sonoran-shield/application-filters.md)
