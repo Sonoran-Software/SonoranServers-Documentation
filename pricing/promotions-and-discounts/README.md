@@ -17,7 +17,7 @@ If you haven't already, [purchase any VPS plan from Sonoran Servers](https://inf
 
 ### 2. Contact Support
 
-Reach out on our [customer support site](https://support.sonoransoftware.com) and a team member will help install and configure your Sonoran CAD integration plugins for free!
+Reach out on our [customer support site](https://support.sonoransoftware.com) and a team member will help install and configure your Sonoran CAD, CMS and Radio integration plugins for free!
 
 ## 30% off Software with Sonoran Servers
 

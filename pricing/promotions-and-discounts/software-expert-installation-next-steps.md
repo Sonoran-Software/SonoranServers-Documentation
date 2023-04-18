@@ -6,6 +6,10 @@ description: >-
 
 # Software Expert Installation - Next Steps
 
+## Before you proceed...
+
+If you have not done so already, please purchase a Windows Server product from us and reach out to our [support team](https://sonoranservers.com/contact.php) to request expert installation. This guide covers the next steps after you have completed this step...
+
 ## Subsections
 
 Click the Subsection below that you would like to jump to:
@@ -17,8 +21,6 @@ Click the Subsection below that you would like to jump to:
 [Sonoran CMS](software-expert-installation-next-steps.md#sonoran-cms)
 
 [Sonoran Radio](software-expert-installation-next-steps.md#sonoran-radio)
-
-
 
 ## FiveM
 
