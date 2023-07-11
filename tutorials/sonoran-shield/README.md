@@ -34,6 +34,14 @@ Enter your sonoranservers.com login credentials.
 
 ### 3. Create your Firewall Rules and Application Filters
 
+It is **recommended** to do the following in order to stop network attacks with Sonoran Shield:
+
+1. Block all unused ports using a "block-all" rule
+2. Allow traffic to used ports, allowing all traffic to ports used by your users and whitelisting specific IPs for management ports (such as Remote Desktop or SSH ports)
+3. Apply Application Filtering rules to all ports that are open based on their specific application
+
+The following linked guides walk you through how to complete each of the above steps:
+
 * [Block unused ports and open required ones](firewall-rules.md)
 * [Apply application-specific filters](application-filters.md)
 * [View your attack history](attack-history.md)
