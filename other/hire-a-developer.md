@@ -14,6 +14,8 @@ Developer hires are broken up into a **maximum of two hour increments**.
 
 We've added dedicated hours to ensure one of our team members can help complete your project!
 
+Our dedicated hours are Thursday and Friday from 9:00 to 11:00 Arizona time.
+
 ### What does this service cost?
 
 Hiring a developer is charged at $35/hour, billed in one hour increments with a maximum amount of 2 hours.
