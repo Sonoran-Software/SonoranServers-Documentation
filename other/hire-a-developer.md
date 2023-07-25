@@ -22,6 +22,10 @@ Hiring a developer is charged at $35/hour, billed in one hour increments with a 
 
 Payments are charged up-front with an electronically signed contract ran through our customer support portal.
 
+### Developer Hire Availability
+
+Our developer hires are available to be scheduled between 9 AM and 11 AM MST (Arizona Time) Thursday to Friday each week. Requests are scheduled on a first come first serve basis.
+
 ## How to Hire
 
 ### 1. Access the Support Site
@@ -44,3 +48,4 @@ You can electronically sign this contract with [Adobe's Acrobat Online](https://
 ### 3. Complete Payment
 
 Once the contract has been finalized and signed by both parties an invoice will be sent. Invoices must be paid before any services will be rendered.
+
