@@ -38,6 +38,7 @@
 * [View and Compare Plans - VPS](https://sonoranservers.com/cart.php?gid=1)
 * [Pricing FAQ](pricing/pricing-faq.md)
 * [Promotions and Discounts](pricing/promotions-and-discounts/README.md)
+  * [Military and First Responder Discount](pricing/promotions-and-discounts/military-and-first-responder-discount.md)
   * [30-100% Off Software](pricing/promotions-and-discounts/30-off-software.md)
   * [Sonoran One - Getting Started](pricing/promotions-and-discounts/sonoran-one-getting-started.md)
   * [Software Expert Installation - Next Steps](pricing/promotions-and-discounts/software-expert-installation-next-steps.md)
