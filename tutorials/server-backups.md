@@ -10,13 +10,13 @@ description: Protect yourself against attacks and data corruption with our Backu
 Server Backups are only available currently for VPS Products
 {% endhint %}
 
-Effective 4/13/2023, all new VPS servers will have automatic weekly backups taken and saved to the cloud for recovery in the instance of a failure. With existing VPS servers to start backing up in the coming week.
+Effective 4/13/2023, all new VPS servers will have automatic weekly backups taken and saved to our on-site network storage for recovery in the instance of a failure. With existing VPS servers to start backing up in the coming week.
 
 ## VPS Server Backups
 
-### What are S3 VPS Backups?
+### What are VPS Backups?
 
-Sonoran Servers VPS products automatically backup weekly to the AWS S3 storage cloud. These backups are available to you for a fee in the event of lost data or a compromised server. You can opt into a paid Backup Plan that will upgrade your backups to daily backups with 1 free restore each month. This paid backup plan costs $10 per month on top of your VPS cost.
+Sonoran Servers VPS products are automatically backed up weekly to our on-site network storage. These backups are available to you for a fee in the event of lost data or a compromised server. You can opt into a paid Backup Plan that will upgrade your backups to daily backups with 1 free restore each month. This paid backup plan costs $10 per month on top of your VPS cost.
 
 ### How Much Do VPS Backups Cost?
 
