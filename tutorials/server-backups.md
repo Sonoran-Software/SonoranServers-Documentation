@@ -10,8 +10,6 @@ description: Protect yourself against attacks and data corruption with our Backu
 Server Backups are only available currently for VPS Products
 {% endhint %}
 
-Effective 4/13/2023, all new VPS servers will have automatic weekly backups taken and saved to our on-site network storage for recovery in the instance of a failure. With existing VPS servers to start backing up in the coming week.
-
 ## VPS Server Backups
 
 ### What are VPS Backups?
