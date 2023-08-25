@@ -4,7 +4,7 @@ description: Protect yourself against attacks and data corruption with our Backu
 
 # Server Backups
 
-<figure><img src="../.gitbook/assets/s3banner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/s3-bannerpsd.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Server Backups are only available currently for VPS Products
