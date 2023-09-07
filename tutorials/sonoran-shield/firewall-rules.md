@@ -39,9 +39,9 @@ Next, we will want to open up a port for remote desktop connections. This will a
   * Allow any IP: `0.0.0.0/0`
   * Or, allow only your specific IP address to connect
 * Set `Protocol` to `TCP`
+* Leave the `Source Port` field blank
 * Set the `Destination Port` to 3389
   * This is the default RDP port for Windows servers
-* Leave the `Destination Port` field blank
 * Set the `Action` to `Allow`
 * Save the new rule
 
