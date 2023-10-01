@@ -38,7 +38,7 @@ All our server hosting products come with [Sonoran Shield](tutorials/sonoran-shi
 
 All our VPS products are protected by weekly server backups free of charge. Upgrade for $10 a month for DAILY backups and 1 free restore a month. Free backup plan restores are subject to a fee. [Learn more today](./#server-backups)!
 
-![Sonoran Servers - VPS Server Backups](.gitbook/assets/s3banner.png)
+<figure><img src=".gitbook/assets/s3-bannerpsd.png" alt=""><figcaption><p>Sonoran Servers - VPS Server Backups</p></figcaption></figure>
 
 ## Need Help?
 

@@ -13,7 +13,13 @@ description: >-
 
 Powered by Path.net, our all-access panel allows you to secure your server’s network more easily than ever before. Quickly lock down network ports, apply application-specific filters, and access real-time attack metrics.
 
+All our server hosting packages include our network protection powered by Path.net, successfully mitigating attacks of over 1Tbps.
+
 Put an end to network attacks once and for all. Sonoran Shield keeps your community in the game or [your money back](https://sonoransoftware.com/assets/files/internal/purchase\_policy.pdf).
+
+{% hint style="danger" %}
+It is important to configure Sonoran Shield for the best possible protection, failing to configure Sonoran Shield may lead to unmitigated attacks being able to affect your server uptime.
+{% endhint %}
 
 ## How do I activate Sonoran Shield?
 

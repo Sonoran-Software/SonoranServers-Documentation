@@ -35,6 +35,14 @@ The hypervisor (host machine) currently distributes VPS nodes on the following h
 
 All our server hosting packages include network protection from Path.net, successfully mitigating attacks of over 1Tbps.
 
+Get the most out of our DDoS mitigation and setup Sonoran Shield today! Configuring DDoS mitigation to be the best protection for the specific applications you are running.
+
+**Learn more at the link below!**
+
+{% content-ref url="../tutorials/sonoran-shield/" %}
+[sonoran-shield](../tutorials/sonoran-shield/)
+{% endcontent-ref %}
+
 ## What plan do I need to run a FiveM/FivePD Server?
 
 This is a question we get often and it is not the most simple to answer.\
