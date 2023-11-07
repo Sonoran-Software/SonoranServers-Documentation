@@ -14,7 +14,7 @@ Developer hires are broken up into a **maximum of two hour increments**.
 
 We've added dedicated hours to ensure one of our team members can help complete your project!
 
-Our dedicated hours are Thursday and Friday from 9:00 to 11:00 Arizona time.
+Our dedicated hours are Thursday and Friday from 10:00 to 12:00 Arizona time.
 
 ### What does this service cost?
 
@@ -24,7 +24,7 @@ Payments are charged up-front with an electronically signed contract ran through
 
 ### Developer Hire Availability
 
-Our developer hires are available to be scheduled between 9 AM and 11 AM MST (Arizona Time) Thursday to Friday each week. Requests are scheduled on a first come first serve basis.
+Our developer hires are available to be scheduled between 10 AM and 12 PM MST (Arizona Time) Thursday to Friday each week. Requests are scheduled on a first come first serve basis.
 
 ## How to Hire
 
@@ -48,4 +48,3 @@ You can electronically sign this contract with [Adobe's Acrobat Online](https://
 ### 3. Complete Payment
 
 Once the contract has been finalized and signed by both parties an invoice will be sent. Invoices must be paid before any services will be rendered.
-
