@@ -25,7 +25,7 @@ To login to your Virtual Private Server you will want to start by doing the foll
 * Search for "Remote Desktop Connection" and click on it.
 * You should see something similar to the below image.
 
-![Remote Desktop Application](<../../../.gitbook/assets/image (96).png>)
+![Remote Desktop Application](<../../../.gitbook/assets/image (158).png>)
 
 * Enter the Server IP Address into the "Computer" field and click Connect.
 * Click "More Choices" and then "Use a Different Account"
@@ -38,7 +38,7 @@ To login to your Virtual Private Server you will want to start by doing the foll
 * Enter your Password as provided in the e-mail you received followed by clicking OK.
 * You will see another pop-up stating "The Identity of the remote computer cannot be verified" click Yes.
 
-![Remote Identity Confirmation](<../../../.gitbook/assets/image (130).png>)
+![Remote Identity Confirmation](<../../../.gitbook/assets/image (88).png>)
 
 {% hint style="info" %}
 You've successfully logged into your VPS!

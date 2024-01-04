@@ -6,7 +6,7 @@ description: >-
 
 # Get started with FivePD
 
-![Sonoran Servers & FivePD - Partnership](<../../.gitbook/assets/image (111).png>)
+![Sonoran Servers & FivePD - Partnership](<../../.gitbook/assets/image (115).png>)
 
 ## Initial FivePD Setup
 
@@ -16,19 +16,19 @@ description: >-
 
 1. Sign in to [keymaster ](https://keymaster.fivem.net)using a [https://forum.cfx.re](https://forum.cfx.re) account.
 
-![](<../../.gitbook/assets/image (137).png>)
+![](<../../.gitbook/assets/image (150).png>)
 
 &#x20;   2\. Click register to register a new license key.
 
-![](<../../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (47).png>)
 
 &#x20;   3\. Fill in the following information using the IP address you were sent after paying for your server.
 
-![](<../../.gitbook/assets/image (93).png>)
+![](<../../.gitbook/assets/image (44).png>)
 
 You will be given a page with your license information. Hover over the blurred out key and copy it for the next step.
 
-![](<../../.gitbook/assets/image (128).png>)
+![](<../../.gitbook/assets/image (138).png>)
 
 ## 2. Customize FivePD Server Installation
 
@@ -44,4 +44,4 @@ Once you have a FX Server license from keymaster...
 4. Edit any other settings to your liking.
 5. Save the `server.cfg` file and start your server with the `Run FivePD Server` shortcut on your Desktop.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (32).png>)

@@ -12,7 +12,7 @@ Common network attacks like DDoS (distributed denial of service) attempt to make
 
 The `Attack History` panel shows previous network attacks.
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 ## Attack Alerts
 

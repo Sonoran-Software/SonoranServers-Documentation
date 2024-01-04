@@ -21,8 +21,16 @@ Reach out on our [customer support site](https://support.sonoransoftware.com) an
 
 ## 30% off Software with Sonoran Servers
 
-If you spend $20 or more with Sonoran Servers monthly, get 30% off Sonoran Software.\
+If you spend $20 or more with Sonoran Servers monthly, you get 30% off Sonoran Software.\
 Learn more about [applying your 30% off discount](30-off-software.md)!
+
+## 25% off Software by Paying Quarterly
+
+You can now receive a 25% discount on any  Software product (CAD, CMS, Radio, Sonoran One) by choosing to pay quarterly (every three months).&#x20;
+
+You can enable quarterly payments at checkout by selecting the **3-month billing** option as shown:
+
+<figure><img src="../../.gitbook/assets/Sono_QuarterlyCrop.png" alt=""><figcaption><p>Sonoran Software - Quarterly Plan</p></figcaption></figure>
 
 ## Free Sonoran One with a Dedicated Server
 
@@ -38,7 +46,7 @@ Learn more about getting a [TeamSpeak 3 Server for free](https://info.sonoranrad
 
 ## Free Five PD Installation
 
-![](<../../.gitbook/assets/image (101).png>)
+![](<../../.gitbook/assets/image (91).png>)
 
 We've partnered up with GTA Police Mods to be the official hosting provider of FivePD. Sonoran Servers customers can also receive free FivePD installation!
 

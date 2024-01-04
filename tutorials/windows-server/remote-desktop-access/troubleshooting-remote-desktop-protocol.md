@@ -6,27 +6,27 @@ Our install image is setup with Remote Desktop over the internet allowed but for
 
 1\. Press the “**Windows**” key and start typing **"Firewall with Advanced Security"**, then click the pictured result to open the Firewall Rule Control Panel.
 
-![Click Firewall with Advanced Security](<../../../.gitbook/assets/image (92).png>)
+![Click Firewall with Advanced Security](<../../../.gitbook/assets/image (69).png>)
 
 2\. Click Incoming Rules in the top left of the window.
 
-![Click Inbound Rules](<../../../.gitbook/assets/image (24).png>)
+![Click Inbound Rules](<../../../.gitbook/assets/image (2).png>)
 
 3\. On the right hand collumn, click "**New Rule...**".
 
-![Click New Rule...](<../../../.gitbook/assets/image (123).png>)
+![Click New Rule...](<../../../.gitbook/assets/image (132).png>)
 
 4\. Click the bubble to change the new rule to a "**Predefined:**" type and select "**Remote Desktop**" from the drop down before clicking next.
 
-![Select predefined](<../../../.gitbook/assets/image (72).png>)
+![Select predefined](<../../../.gitbook/assets/image (4).png>)
 
 5\. Select all the rules and click "**Next**".
 
-![Select all rules from list](<../../../.gitbook/assets/image (147).png>)
+![Select all rules from list](<../../../.gitbook/assets/image (136).png>)
 
 6\. Keep clicking "**Next**" until the Wizard closes and successfully adds the new rules.
 
-![New Firewall Rules](<../../../.gitbook/assets/image (29).png>)
+![New Firewall Rules](<../../../.gitbook/assets/image (38).png>)
 
 7\. Try Remote Desktop Connection again.
 
@@ -36,14 +36,14 @@ Windows Remote Desktop Protocol sometimes runs into issues and most of the time 
 
 1\. Press the “**Windows**” key and start typing **"Services"**, then click the pictured result to open the Services Control Panel.
 
-![Click "Services"](<../../../.gitbook/assets/image (49).png>)
+![Click "Services"](<../../../.gitbook/assets/image (40).png>)
 
 2\. Rick click on “**Remote** **Desktop** **Service**” and click on **“Restart”.**
 
-![Services Control Panel: Restart "Remote Desktop Services"](<../../../.gitbook/assets/image (139).png>)
+![Services Control Panel: Restart "Remote Desktop Services"](<../../../.gitbook/assets/image (97).png>)
 
 3\. Click **"yes"** on the prompt that pops up.
 
-![Click "Yes"](<../../../.gitbook/assets/image (140).png>)
+![Click "Yes"](<../../../.gitbook/assets/image (124).png>)
 
 4\. **Check** to see if the issue persists.

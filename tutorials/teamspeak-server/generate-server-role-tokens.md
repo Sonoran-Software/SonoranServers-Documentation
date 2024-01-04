@@ -10,15 +10,15 @@ description: Learn how to generate role keys with your Sonoran Servers TeamSpeak
 
 2\. Click your TeamSpeak Server service under "Your Active Products/Services"
 
-![Sonoran Servers Client Homepage](<../../.gitbook/assets/image (131).png>)
+![Sonoran Servers Client Homepage](<../../.gitbook/assets/image (122).png>)
 
 3\. Click `Tokens` on the left hand sidebar menu or scroll down to the bottom of the page to find the `Tokens` button as pictured below.
 
-![Sonoran Servers TeamSpeak Server Control Panel](<../../.gitbook/assets/image (115).png>)
+![Sonoran Servers TeamSpeak Server Control Panel](<../../.gitbook/assets/image (145).png>)
 
 4\. Select the role you want this new Token to grant. Then click `Create`.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 5\. Once the Token generates, copy it.
 
@@ -26,11 +26,11 @@ description: Learn how to generate role keys with your Sonoran Servers TeamSpeak
 
 7\. Click `Permissions` and then `Use Permission Key` from the top bar menus.
 
-![TeamSpeak 3 - Use Permission Key](<../../.gitbook/assets/image (103) (1).png>)
+![TeamSpeak 3 - Use Permission Key](<../../.gitbook/assets/image (129).png>)
 
 8\. Paste the "Token" you generated on the TeamSpeak server control panel into the prompt. Then press `OK`
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (75).png>)
 
 You should now have a success message and the role you selected to grant! Congratulations!
 
@@ -44,19 +44,19 @@ You **MUST** already have Server Admin or permissions in the TeamSpeak server in
 
 2\. Click `Permissions` then `Permission Keys` from the top menus.
 
-![TeamSpeak 3 - Privilege Keys](<../../.gitbook/assets/image (112).png>)
+![TeamSpeak 3 - Privilege Keys](<../../.gitbook/assets/image (114).png>)
 
 3\. Click `Create` in the new window that has appeared.
 
-![TeamSpeak 3 - Privilege Keys Prompt](<../../.gitbook/assets/image (107).png>)
+![TeamSpeak 3 - Privilege Keys Prompt](<../../.gitbook/assets/image (149).png>)
 
 4\. Choose the Group/Role you want this new key to grant, enter an option Description. Then click `Create` at the bottom of the prompt.
 
-![](<../../.gitbook/assets/image (30).png>)
+![](<../../.gitbook/assets/image (63).png>)
 
 5\. Click the icon next to the key in order to copy it to your clipboard.
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (43).png>)
 
 6\. Distribute the new key to the user you would like to use it. Permission keys can only be used once per key. You can [link them](generate-server-role-tokens.md#undefined) to the steps below in order to guide them on how to use the permission key.
 
@@ -66,10 +66,10 @@ You **MUST** already have Server Admin or permissions in the TeamSpeak server in
 
 2\. Click `Permissions` and then `Use Permission Key` from the top bar menus.
 
-![TeamSpeak 3 - Use Permission Key](<../../.gitbook/assets/image (103) (1).png>)
+![TeamSpeak 3 - Use Permission Key](<../../.gitbook/assets/image (129).png>)
 
 3\. Paste the "Token" you recieved into the prompt. Then press `OK`
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (75).png>)
 
 You should now have a success message and the role granted! Congratulations!

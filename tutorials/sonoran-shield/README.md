@@ -7,7 +7,7 @@ description: >-
 
 # Sonoran Shield
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 ## What is Sonoran Shield (Alpha)?
 

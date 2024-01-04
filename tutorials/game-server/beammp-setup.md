@@ -24,19 +24,19 @@ The player slots are not limited unless limited by the game developers, the slot
 
 Go to the [game server configurator](https://sonoranservers.com/gameserver/#/) on our website and select BeamNG.Drive as the game you would like to purchase a game server for.
 
-![Select BeamNG.Drive](<../../.gitbook/assets/image (2).png>)
+![Select BeamNG.Drive](<../../.gitbook/assets/image (55).png>)
 
 ### 2. Estimate Resource Usage
 
 Select the number of slots you want your server to support. Make sure you that BeamMP is selected as the "**Game Mode**" and adjust any other options you would like before clicking "**ORDER NOW**" to continue.
 
-![Configure and Add to Cart](<../../.gitbook/assets/image (87).png>)
+![Configure and Add to Cart](<../../.gitbook/assets/image (52).png>)
 
 ### 3. Purchase your Game Server
 
 Review your order, add any additional items and fill out the information requested before checking out.
 
-![Review your order, create your account and checkout](<../../.gitbook/assets/image (27).png>)
+![Review your order, create your account and checkout](<../../.gitbook/assets/image (74).png>)
 
 ## Configure Game Server
 
@@ -46,31 +46,31 @@ BeamMP will require you to create a license key and configure your server before
 
 Access the [Sonoran Servers Client Area](https://sonoranservers.com/clientarea.php) and click your game server from the list of your active services.
 
-![Select your Game Server Service](<../../.gitbook/assets/image (118).png>)
+![Select your Game Server Service](<../../.gitbook/assets/image (80).png>)
 
 ### 2. Open the Game Server Panel
 
 Click the green button "**Go to Panel**" to access the Game Server Control Panel.
 
-![Access the Game Server Control Panel](<../../.gitbook/assets/image (73).png>)
+![Access the Game Server Control Panel](<../../.gitbook/assets/image (79).png>)
 
 ### 3. Login to the Game Panel
 
 Select the option to log in with your Sonoran Servers customer login.
 
-![Sign in with your Sonoran Servers account](<../../.gitbook/assets/image (152).png>)
+![Sign in with your Sonoran Servers account](<../../.gitbook/assets/image (151).png>)
 
 ### 4. Select your Server
 
 Select your Server from the list, if this is your first game server with us there should only be one.
 
-![Select your Game Server](<../../.gitbook/assets/image (36).png>)
+![Select your Game Server](<../../.gitbook/assets/image (54).png>)
 
 ### 5. Start your Game Server
 
 Click the "**Startup**" Button on the sidebar.
 
-![Click "Startup"](<../../.gitbook/assets/image (16).png>)
+![Click "Startup"](<../../.gitbook/assets/image (51).png>)
 
 ### 6. Login to Beam MP
 
@@ -80,27 +80,27 @@ In a new web browser window, go to [https://beamng-mp.com/k/keys](https://beamng
 
 Once logged in click the "**Keys**" link on the sidebar then click on the word "**here**" as shown below to create a new key.
 
-![Creating a new license key](<../../.gitbook/assets/image (127).png>)
+![Creating a new license key](<../../.gitbook/assets/image (105).png>)
 
 ### 8. Configure your Key
 
 Fill in a Server Name, this can be anything you choose and the Server IP. The Server IP can be viewed back on the "**Console**" tab in the Game Server Control Panel from before. For example, the IP below is "172.107.228.160"
 
-![Enter info to create BeamMP License Key](<../../.gitbook/assets/image (31).png>)
+![Enter info to create BeamMP License Key](<../../.gitbook/assets/image (46).png>)
 
-![Game Server IP from Console](<../../.gitbook/assets/image (32).png>)
+![Game Server IP from Console](<../../.gitbook/assets/image (26).png>)
 
 ### 9. Add your Key in the Game Panel
 
 Copy the new BeamMP License Key from the page and paste it into the "**Authentication Key**" field on the Startup tab of the Game Server Control Panel. At this time you can also adjust the Max Players you would like to allow on your BeamMP server as well as the name/description you would like to show on the server list.
 
-![Enter Authentication Key](<../../.gitbook/assets/image (66).png>)
+![Enter Authentication Key](<../../.gitbook/assets/image (29).png>)
 
 ## Start your Server and Connect!
 
 Your server is now configured! Simply go to the "**Console**" tab and click "**Start**". The server console will start outputting information and you will be able to see the server resource usage at the bottom.
 
-![Start your Server!](<../../.gitbook/assets/image (25).png>)
+![Start your Server!](<../../.gitbook/assets/image (3).png>)
 
 ### How to Connect to your Server
 
@@ -110,7 +110,7 @@ First, make sure you have Installed BeamMP, you can find out more here. Once ins
 
 Next, I suggest clicking on the IP address shown in your Game Server Console window to copy the IP.
 
-![](<../../.gitbook/assets/image (80).png>)
+![](<../../.gitbook/assets/image (89).png>)
 
 In BeamNG.drive, click "**Play**", then "**Multiplayer**". If you set your server to `Private = false` in your Server.cfg file, then your server should show on the server list.
 
@@ -118,7 +118,7 @@ If you have trouble finding it, go ahead and direct connect!
 
 Click "**Direct Connect**" from the left-hand sidebar, then click the "**Paste from Clipboard**" button to paste the IP you copied earlier.
 
-![Direct Connect to your BeamMP Server](<../../.gitbook/assets/image (13).png>)
+![Direct Connect to your BeamMP Server](<../../.gitbook/assets/image (19).png>)
 
 Finally, click "**Connect**" to join your BeamMP server! You should join your game server without any issues.
 

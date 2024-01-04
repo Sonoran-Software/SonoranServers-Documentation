@@ -29,7 +29,7 @@ VPS Backups plans are straightforward and very cost-effective.
 
 #### 1. Purchase Backup Plan at VPS initial purchase
 
-<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Contact Support to upgrade your VPS Backup Plan
 
@@ -59,13 +59,13 @@ Visit the Sonoran Servers website and click "Log In" in the top right corner or 
 
 Click `Manage` on your VPS you would like to Restore
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. View your Backups
 
 Scroll down the page and click the dropdown to reveal the `Backups` option, then click the `Backups` button.
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Select the Restore Point
 
@@ -75,7 +75,7 @@ Under the `Incremental Backups` View, and choose the backup you would like to re
 There is no turning back once you confirm the restore action, **all current data on the VPS will be lost and replaced by the backup**.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Wait for the Restore to complete
 

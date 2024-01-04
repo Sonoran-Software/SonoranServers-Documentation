@@ -34,7 +34,7 @@ Navigate to [support.sonoransoftware.com](https://support.sonoransoftware.com/) 
 
 Input the specifics of your project. **Please be as specific as possible** so we can more quickly pair you with an available developer.
 
-![Sonoran Software - Hire a Developer](<../.gitbook/assets/image (77).png>)
+![Sonoran Software - Hire a Developer](<../.gitbook/assets/image (85).png>)
 
 ### 2. Agree and Finalize the Contract
 

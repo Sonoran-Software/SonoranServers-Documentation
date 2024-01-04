@@ -20,17 +20,17 @@ First, [remote to your server](../remote-desktop-access/), and from the below li
 
 [https://filezilla-project.org/download.php?type=server](https://filezilla-project.org/download.php?type=server)
 
-![](<../../../.gitbook/assets/image (85).png>)
+![](<../../../.gitbook/assets/image (33).png>)
 
 ### 2. Install
 
 In the first step, agree to the terms and choose **I Agree** if you agree!
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (30).png>)
 
 Check the components that you wish to be installed and choose **Next**.
 
-![](<../../../.gitbook/assets/image (138).png>)
+![](<../../../.gitbook/assets/image (117).png>)
 
 ### 3. Configure
 
@@ -47,29 +47,29 @@ This is not the FTP port used by FTP clients. Do **NOT** set this port as 21 as 
 
 3\. The third one is to check or uncheck the option “Start server after setup completes”.
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (77).png>)
 
 On the next step, choose how the interface of the server should be started and click **Install**.
 
-![](<../../../.gitbook/assets/image (70).png>)
+![](<../../../.gitbook/assets/image (100).png>)
 
 ### 4. Open FileZilla
 
 Once it was opened, a pop screen will be shown. Click Connect to administrate.
 
-![](<../../../.gitbook/assets/image (143).png>)
+![](<../../../.gitbook/assets/image (120).png>)
 
 ### 5. Create a User
 
 Now you need to create at least one username and define a folder. To do this, click on the `Users` option > Choose `Edit` > `Users` > `add` to add a new user > Check the `Password` box and choose a secure password with at least **8** characters.
 
-![](<../../../.gitbook/assets/image (38).png>)
+![](<../../../.gitbook/assets/image (12).png>)
 
 ### 6. Assign Shared Folders
 
 To assign one or more folders to this user, choose `Shared folders`**,** and click `Add`. Next to the shared folders that you chose, also set the accesses that you wish to assign for this new user and click ok.
 
-![](<../../../.gitbook/assets/image (52).png>)
+![](<../../../.gitbook/assets/image (16).png>)
 
 ### 7. Open FTP port in the firewall
 

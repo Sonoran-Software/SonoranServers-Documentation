@@ -25,17 +25,17 @@ First, [remote to your server](../remote-desktop-access/), and from the below li
 
 [https://filezilla-project.org/download.php?type=server](https://filezilla-project.org/download.php?type=server)
 
-![](<../../../.gitbook/assets/image (113).png>)
+![](<../../../.gitbook/assets/image (133).png>)
 
 ### 2. Install
 
 In the first step, agree to the terms and choose **I Agree** if you agree!
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (30).png>)
 
 Check the components that you wish to be installed and choose **Next**.
 
-![](<../../../.gitbook/assets/image (125).png>)
+![](<../../../.gitbook/assets/image (143).png>)
 
 The next window will ask for the installation directory, you can leave this as the default and click **Next** again. The same will be true for the start menu window that follows, simply click **Next** until you receive the next window as pictured below...
 
@@ -54,49 +54,49 @@ This is not the FTP port used by FTP clients. Do **NOT** set this port as 21 as 
 
 3\. The third one is to set your administrative password to manage the FileZilla Server. Please choose a memorable password that is secure. We suggest mixing a combination of uppercase letters, lowercase letters, numbers and symbols.
 
-![](<../../../.gitbook/assets/image (154).png>)
+![](<../../../.gitbook/assets/image (107).png>)
 
 On the next step, choose how the interface of the server should be started and click **Install**.
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (86).png>)
 
 ### 4. Open FileZilla
 
 Once it was opened, click `Connect to FileZilla FTP Server`.
 
-![](<../../../.gitbook/assets/image (46).png>)
+![](<../../../.gitbook/assets/image (17).png>)
 
 A smaller window will prompt you for your administrative password. Enter you password then click **Ok** to administrate the FTP server.
 
-![](<../../../.gitbook/assets/image (69).png>)
+![](<../../../.gitbook/assets/image (76).png>)
 
 You will get a notice the first time connecting to your FTP server asking to trust the signature of the server. Click **Yes** to proceed.
 
-![](<../../../.gitbook/assets/image (22).png>)
+![](<../../../.gitbook/assets/image (70).png>)
 
 ### 5. Create a User
 
 Now you need to create at least one username and define a folder. To do this, click on the `Server` tab > then choose `Configure`.&#x20;
 
-![](<../../../.gitbook/assets/image (75).png>)
+![](<../../../.gitbook/assets/image (96).png>)
 
 This will open the configuration window. Click `Users` on the left sidebar, then click `Add` at the bottom left to add a new user. You will be able to set the username of the user as seen in the top left.
 
-![](<../../../.gitbook/assets/image (33).png>)
+![](<../../../.gitbook/assets/image (98).png>)
 
 Check the Password checkbox and type a secure password of at least **8 characters** and has a combination of uppercase letters, lowercase letters, numbers and symbols. Then click **Apply** at the bottom right of the window.
 
-![](<../../../.gitbook/assets/image (62).png>)
+![](<../../../.gitbook/assets/image (24).png>)
 
 ### 6. Assign Shared Folders
 
 To assign one or more folders to this user first you must have the server file path. Open Windows Explorer and navigate to the folder you would like to make accesible from your FTP server. Copy the file path at the top of the Windows Explorer window.
 
-![](<../../../.gitbook/assets/image (65).png>)
+![](<../../../.gitbook/assets/image (57).png>)
 
 Click in the `Virtual path` field and enter a name that will be displayed when connecting to your FTP server. The name should have a "/" before the name. Then paste your server file path in the `Native path` field. If you want to allow files to be written click the `Writeable` checkbox. Save your shared folder settings by clicking `Apply` at the bottom right.
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (84).png>)
 
 ### 7. Open FTP port in the firewall
 

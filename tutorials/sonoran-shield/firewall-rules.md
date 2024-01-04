@@ -12,7 +12,7 @@ Sensitive ports can be limited to only authorized source IP addresses (your deve
 
 ## Getting Started with Firewall Rules
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Block all Unused Ports
 
@@ -26,7 +26,7 @@ The first rule will block access on all unused ports. After this, we will add ru
 * Set the `Action` to `Block`
 * Save the new rule
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Add a port for RDP
 
@@ -47,4 +47,4 @@ Next, we will want to open up a port for remote desktop connections. This will a
 
 Continue this process to open additional ports for your game server and any other applications.
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>

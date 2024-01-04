@@ -20,7 +20,7 @@ Or, view our [pricing](pricing/pricing-faq.md) and [product](frequently-asked-qu
 
 We also offer [free FivePD installation](tutorials/windows-server/get-started-with-fivepd.md) on all Windows VPS plans!
 
-![Sonoran Servers & FivePD - Partnership](<.gitbook/assets/image (124).png>)
+![Sonoran Servers & FivePD - Partnership](<.gitbook/assets/image (128).png>)
 
 ### In-Game resource Installation
 
@@ -32,7 +32,7 @@ Get free [in-game resource expert installation](pricing/promotions-and-discounts
 
 All our server hosting products come with [Sonoran Shield](tutorials/sonoran-shield/)'s industry-leading DDoS protection. Complete with an in-depth DDoS mitigation control panel for your VPS or dedicated server.
 
-![Sonoran Servers - Sonoran Shield DDoS Protection](<.gitbook/assets/image (146).png>)
+![Sonoran Servers - Sonoran Shield DDoS Protection](<.gitbook/assets/image (87).png>)
 
 ## Server Backups
 

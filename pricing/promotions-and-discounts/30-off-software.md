@@ -18,9 +18,9 @@ Login to [account.sonoransoftware.com](https://account.sonoransoftware.com/#/) a
 
 Under the Sonoran Servers section, click the "Link Account" button. Then, login using your [sonoranservers.com](https://sonoranservers.com/) email and password.
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (36).png>)
 
-![](<../../.gitbook/assets/image (17).png>)
+![](../../.gitbook/assets/image.png)
 
 ### 3. Apply the Bundle Discount
 
@@ -35,7 +35,7 @@ Users who do not yet have an active CAD, CMS, or Radio subscription can generate
 
 **1. Generate a New Subscription**
 
-![Billing Page - New Subscription](../../.gitbook/assets/image.png)
+![Billing Page - New Subscription](<../../.gitbook/assets/image (35).png>)
 
 Subscriptions created through the billing page bundle system will automatically have a 30% discount applied, as long as your [server subscription is still active](30-off-software.md#terms-and-details).
 
@@ -49,9 +49,9 @@ Users with an existing subscription can click `Bundle and Save` on the subscript
 
 Once linked the discount is shown in the billing panel. The discount is automatically applied as long as your [server subscription is still active](30-off-software.md#terms-and-details).
 
-![](<../../.gitbook/assets/image (61).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (72).png>)
 
 ### Terms and Details
 
