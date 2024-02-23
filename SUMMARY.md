@@ -16,6 +16,7 @@
   * [Opening Ports/Firewall Rules](tutorials/windows-server/opening-ports.md)
   * [Install FileZilla FTP Server](tutorials/windows-server/install-filezilla-ftp-server/README.md)
     * [FileZilla v0.9 Install Guide](tutorials/windows-server/install-filezilla-ftp-server/filezilla-v0.9.md)
+  * [Change Sonoran Servers Wallpaper](tutorials/windows-server/change-sonoran-servers-wallpaper.md)
   * [Get started with FivePD](tutorials/windows-server/get-started-with-fivepd.md)
 * [Linux Server](tutorials/linux.md)
 * [Game Server](tutorials/game-server/README.md)
