@@ -62,21 +62,21 @@ Once you have a FX Server license from keymaster...
 
 ## Sonoran CAD
 
-### 1. Locate your Installed Plugins
+### 1. Locate your Activated Submodules
 
-Every plugin installed will have a separate folder. These are located in the `\sonorancad\plugins` directory.
+Every configuration file will be in the same folder folder. These are located in the `\sonorancad\configuration` directory.
 
-![Sonoran CAD - Plugin Folders](<../../.gitbook/assets/image (11) (1).png>)
+<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption><p>SonoranCAD Configuration Folder</p></figcaption></figure>
 
 ### 2. View and Change Configuration Files
 
-For every Sonoran CAD plugin installed, there will be a `config_{pluginName}.lua` file present.
+For every Sonoran CAD submodule, there will be a `{pluginName}_config.lua` file present.
 
-![Sonoran CAD - Plugin Config File](<../../.gitbook/assets/image (12) (1).png>)
+![Sonoran CAD - Submodule Config File](<../../.gitbook/assets/image (12) (1).png>)
 
 You can open these configuration files with a text editor and change values.
 
-For more information on a plugin's configuration options, you can view the individual plugin guides on the [Available Plugins](https://info.sonorancad.com/integration-plugins/integration-plugins/available-plugins) page and scroll down to the configuration section.
+For more information on a plugin's configuration options, you can view the individual submodule guides on the [FiveM Submodules](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins) page and scroll down to the configuration section.
 
 If you modify a configuration file, be sure to save it and `restart sonorancad` in your server console, or restart the server.
 
