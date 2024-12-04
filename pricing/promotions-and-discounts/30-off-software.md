@@ -6,7 +6,7 @@ description: >-
 
 # 30-100% Off Software
 
-![Sonoran Software - 30% Off](../../.gitbook/assets/banner\_update-1.png)
+![Sonoran Software - 30% Off](../../.gitbook/assets/banner_update-1.png)
 
 ![Sonoran One - Free with a Dedicated Server](<../../.gitbook/assets/Bannerprojectsenoranone (1).png>)
 
@@ -20,7 +20,7 @@ Under the Sonoran Servers section, click the "Link Account" button. Then, login 
 
 ![](<../../.gitbook/assets/image (36).png>)
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 ### 3. Apply the Bundle Discount
 

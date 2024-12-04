@@ -86,13 +86,13 @@ If you modify a configuration file, be sure to save it and `restart sonorancad` 
 
 ### 1. Locate your Installed Plugins
 
-Every CMS addon resource installed will have a separate folder. These are located in the `\resources\[sonorancms]` directory.
+Every CMS addon resource installed will have a separate folder. These are located in the `\[sonorancms]\server\modules` directory.
 
-<figure><img src="../../.gitbook/assets/ZylVox9au9.png" alt=""><figcaption><p>Sonoran CMS - Resource Folder</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Sonoran CMS - Submodules Folder</p></figcaption></figure>
 
 ### 2. View and Change Configuration Files
 
-For every Sonoran CMS addon installed, there will be a `config.lua` or `config.json` file present.
+For every Sonoran CMS submodule installed, there will be a `config.lua` or `config.json` file present.
 
 <figure><img src="../../.gitbook/assets/Ag0gX813Mc.png" alt=""><figcaption><p>Sonoran CMS - Addon Config File</p></figcaption></figure>
 

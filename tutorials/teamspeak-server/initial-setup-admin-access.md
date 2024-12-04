@@ -43,6 +43,6 @@ This is **ONLY** applicable to newly setup TeamSpeak servers. Once Server Admin 
 
 6\. You should see a success message as shown below.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 You now have Server Admin permissions in your TeamSpeak Server!
