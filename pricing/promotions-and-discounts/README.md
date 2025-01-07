@@ -9,7 +9,7 @@ description: >-
 
 ## Free Plugin Installation
 
-![](../../.gitbook/assets/spaces\_-M4pGN81fb4R6zFhodcu\_uploads\_p9bCwuJW12UvmyDrJ834\_banner\_update-1.webp)
+![](../../.gitbook/assets/spaces_-M4pGN81fb4R6zFhodcu_uploads_p9bCwuJW12UvmyDrJ834_banner_update-1.webp)
 
 ### 1. Purchase a VPS from Sonoran Servers
 
@@ -37,12 +37,6 @@ You can enable quarterly payments at checkout by selecting the **3-month billing
 <figure><img src="../../.gitbook/assets/Bannerprojectsenoranone (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Learn more about getting [Sonoran One for free](30-off-software.md) with your purchase of a dedicated server!
-
-## Free TeamSpeak 3 Server with Sonoran Radio Pro
-
-<figure><img src="../../.gitbook/assets/radiobanner.png" alt=""><figcaption></figcaption></figure>
-
-Learn more about getting a [TeamSpeak 3 Server for free](https://info.sonoranradio.com/en/pricing/free-teamspeak-promo) with your purchase of Sonoran Radio Pro or Sonoran ONE
 
 ## Free Five PD Installation
 
