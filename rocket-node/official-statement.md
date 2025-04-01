@@ -8,7 +8,7 @@ description: >-
 
 ### Statement
 
-I wanted to share an important update with you about Sonoran Servers—one that marks an exciting new direction for our team, even if it comes with some bittersweet news. After a lot of consideration, we've decided to phase out our server hosting services and transition Sonoran Servers customers to Rocket Node Hosting. While it's been a measurable success and a solid part of our business, we’ve spent the last year realizing it's time to shift our focus back to what we do best.
+We want to share an important update with you about Sonoran Servers—one that marks an exciting new direction for our team, even if it comes with some bittersweet news. After a lot of consideration, we've decided to phase out our server hosting services and transition Sonoran Servers customers to Rocket Node Hosting. While it's been a measurable success and a solid part of our business, we’ve spent the last year realizing it's time to shift our focus back to what we do best.
 
 Over time, we’ve realized that trying to do it all limits our ability to excel at what we do best: building innovative software. Rising costs from data centers, network fees, and licensing, combined with the highly competitive hosting market, have made it clear that hosting isn’t where we can deliver the most impact.
 
