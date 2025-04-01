@@ -7,6 +7,7 @@
 * [Information FAQ](rocket-node/information-faq.md)
 * [VPS Migration](rocket-node/vps-migration.md)
 * [Domain Name Transfers](rocket-node/domain-name-transfers.md)
+* [Official Statement](rocket-node/official-statement.md)
 
 ## Tutorials
 
