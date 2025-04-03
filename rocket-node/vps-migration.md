@@ -50,6 +50,7 @@ I confirm:
 - I have opened a support ticket with Rocket Node.
 
 Information:
+- My Rocket Node support ticket number is: <ADD TICKET # HERE>
 - My Rocket Node account email is: <ADD EMAIL HERE>
 - My Sonoran Servers VPS password is: <ADD PASSWORD HERE>
 
